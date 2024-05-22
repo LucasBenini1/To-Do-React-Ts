@@ -1,0 +1,2 @@
+declare module "*.module.css" //*.module.css se refere a tos os arquivos que tenham apos o primeiro `.` modules.css.
+//Ou seja, declara o Header.module.css e o Footer.module.css ( ou qlq outro que tenha module.css)
